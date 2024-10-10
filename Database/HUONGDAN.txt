@@ -1,0 +1,35 @@
+* Database:
+- Import file database (project2) [Import from Self-Contained File].
+- Thay đổi cấu hình ở file BaseDAO.java
+
+
+
+
+
+* Admin Page:
+- Đăng nhập các tài khoản có (role_id = 1) thì sẽ có trang quản lý người dùng.
+- Tài khoản có sẵn ở bên dưới.
+
+
+
+
+
+* Tài khoản:
+
+- Admin (role_id = 1):
+username: admin
+password: Admin*
+
+
+- Employee (role_id = 2):
+username: nhanvien
+password: NhanVien*
+
+username: nhanvien1
+password: NhanVien*
+
+username: nhanvien2
+password: NhanVien*
+
+username: nhanvien3
+password: NhanVien*
